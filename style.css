@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+.purple {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(47,47,145);
+    border: 1px solid white;
+}
+
+.container {
+    margin: 0 auto;
+    margin-top: 10px;
+}
